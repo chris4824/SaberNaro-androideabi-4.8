@@ -1,0 +1,3 @@
+ SaberNaro ANDROIDEABI 4.8
+----------------------
+This toolchain was built using SaberMod GCC, but in a Linaro build environment (linaro binutils, gdb, cloog, etc.) with the exception of using the latest ISL. This is built opposite of my LinaroMod toolchain.
